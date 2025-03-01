@@ -12,7 +12,7 @@
 #	$(CC) -c Vector.cc
 
 # VectorGPT.o: VectorGPT.cc
-	$(CC) -c VectorGPT.cc
+#	$(CC) -c VectorGPT.cc
 
 # VectorSTD.o: VectorSTD.cc
 #	$(CC) -c VectorSTD.cc
